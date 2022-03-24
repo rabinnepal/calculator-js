@@ -1,3 +1,5 @@
+//OPERATION SIGN DOESN'T REGISTER SIMULTANEOUSLY ONE AFTER ANOTHER
+
 class Calculator {
   constructor(previousOperandTextElement, currentOperandTextElement) {
     this.previousOperandTextElement = previousOperandTextElement;
